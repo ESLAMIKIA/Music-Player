@@ -2,6 +2,9 @@
 
 A simple Music Player app built using Kotlin and Android Studio, allowing users to select and play audio files with a dynamic animated gradient background.
 
+📥 Download APK
+----------------------------------------------------------
+
 🚀 Features
 ------------------------------------------------
 
