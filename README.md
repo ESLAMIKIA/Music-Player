@@ -46,7 +46,8 @@ The app allows users to pick a music file from storage.
 📸 Screenshots
 ----------------------------------------------------------------------------
 
-(📌 Add your app screenshots here)
+![photo_2025-02-26_19-44-36](https://github.com/user-attachments/assets/b3f25634-3db7-4737-9930-c5fe1f9a203e)
+
 🔧 Technologies Used
 
     Kotlin
