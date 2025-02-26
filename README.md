@@ -21,7 +21,7 @@ A simple Music Player app built using Kotlin and Android Studio, allowing users 
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/ESLAMIKIA/MusicPlayer.git
+git clone https://github.com/ESLAMIKIA/Music-Player.git
 
 2️⃣ Open in Android Studio
 
