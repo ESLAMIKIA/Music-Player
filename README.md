@@ -1,1 +1,54 @@
-# Music-Player
+#🎵 Music Player - Android App
+
+A simple Music Player app built using Kotlin and Android Studio, allowing users to select and play audio files with a dynamic animated gradient background.
+🚀 Features
+------------------------------------------------
+
+✅ Play/Pause music
+✅ Seekbar to control playback
+✅ Display album art
+✅ Dynamic animated gradient background
+✅ Smooth background color transitions
+✅ File selection from storage (Android 10 and below requires permission)
+📥 Installation
+-----------------------------------------------------------
+
+1️⃣ Clone the repository:
+
+git clone https://github.com/yourusername/MusicPlayer.git
+
+2️⃣ Open in Android Studio
+3️⃣ Run the app on an emulator or a physical device
+📜 Permissions
+-------------------------------------------
+
+For Android 10 and below, add the following permission to AndroidManifest.xml:
+
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+For Android 11 and above, no permission is required. The app uses Storage Access Framework (SAF).
+📂 File Selection
+
+The app allows users to pick a music file from storage.
+
+    Android 10 and below: Uses READ_EXTERNAL_STORAGE permission.
+    Android 11 and above: Uses ACTION_OPEN_DOCUMENT (No permission required).
+
+📸 Screenshots
+----------------------------------------------------------------------------
+
+(📌 Add your app screenshots here)
+🔧 Technologies Used
+
+    Kotlin
+    Android Studio
+    MediaPlayer API
+    Storage Access Framework (SAF)
+    Animated Gradient Background with SweepGradient
+
+👨‍💻 Author
+
+📌 Amir Erfan Eslamikia
+
+
+🚀 Enjoy your music! 🎶
