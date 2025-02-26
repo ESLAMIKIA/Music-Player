@@ -5,20 +5,28 @@ A simple Music Player app built using Kotlin and Android Studio, allowing users 
 ------------------------------------------------
 
 ✅ Play/Pause music
+
 ✅ Seekbar to control playback
+
 ✅ Display album art
+
 ✅ Dynamic animated gradient background
+
 ✅ Smooth background color transitions
+
 ✅ File selection from storage (Android 10 and below requires permission)
+
 📥 Installation
 -----------------------------------------------------------
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/yourusername/MusicPlayer.git
+git clone https://github.com/ESLAMIKIA/MusicPlayer.git
 
 2️⃣ Open in Android Studio
+
 3️⃣ Run the app on an emulator or a physical device
+
 📜 Permissions
 -------------------------------------------
 
@@ -27,6 +35,7 @@ For Android 10 and below, add the following permission to AndroidManifest.xml:
 <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 
 For Android 11 and above, no permission is required. The app uses Storage Access Framework (SAF).
+
 📂 File Selection
 
 The app allows users to pick a music file from storage.
