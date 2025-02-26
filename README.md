@@ -4,7 +4,7 @@ A simple Music Player app built using Kotlin and Android Studio, allowing users 
 
 📥 Download APK
 ----------------------------------------------------------
-[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/ESLAMIKIA/Music-Player-APK/releases/download/MusicPlayer/app-release2.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/ESLAMIKIA/Music-Player-APK/releases/download/MusicPlayer/app-release.apk)
 
 🚀 Features
 ------------------------------------------------
