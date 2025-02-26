@@ -56,6 +56,7 @@ The app allows users to pick a music file from storage.
     Animated Gradient Background with SweepGradient
 
 👨‍💻 Author
+-----------------------------------------
 
 📌 Amir Erfan Eslamikia
 
